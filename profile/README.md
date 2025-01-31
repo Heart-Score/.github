@@ -4,6 +4,6 @@
 
 <div align="center">
 
-### 🏃‍♀️&nbsp;&nbsp;MUVS - HeartScore 서비스&nbsp;&nbsp;🏃‍♂️
+### 🏃‍♀️&nbsp;&nbsp;VIVA - HeartScore 서비스&nbsp;&nbsp;🏃‍♂️
 
 </div>
